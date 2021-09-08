@@ -1,0 +1,597 @@
+[
+	{
+		"name": "A7",
+		"note": "A",
+		"type": "7",
+		"value": ["A", "C#", "E", "G"],
+		"variation": ["A", "Db", "E", "G"]
+	},
+	{
+		"name": "Amaj7",
+		"note": "A",
+		"type": "maj7",
+		"value": ["A", "C#", "E", "G#"],
+		"variation": ["A", "Db", "E", "Ab"]
+	},
+	{
+		"name": "Am7",
+		"note": "A",
+		"type": "m7",
+		"value": ["A", "C", "E", "G"],
+		"variation": ["A", "C", "E", "G"]
+	},
+	{
+		"name": "Am7b5",
+		"note": "A",
+		"type": "m7b5",
+		"value": ["A", "C", "D#", "G"],
+		"variation": ["A", "C", "Eb", "G"]
+	},
+	{
+		"name": "Adim7",
+		"note": "A",
+		"type": "dim7",
+		"value": ["A", "C", "D#", "F#"],
+		"variation": ["A", "C", "Eb", "Gb"]
+	},
+	{
+		"name": "B7",
+		"note": "B",
+		"type": "7",
+		"value": ["B", "D#", "F#", "A"],
+		"variation": ["B", "Eb", "Gb", "A"]
+	},
+	{
+		"name": "Bmaj7",
+		"note": "B",
+		"type": "maj7",
+		"value": ["B", "D#", "F#", "A#"],
+		"variation": ["B", "Eb", "Gb", "Bb"]
+	},
+	{
+		"name": "Bm7",
+		"note": "B",
+		"type": "m7",
+		"value": ["B", "D", "F#", "A"],
+		"variation": ["B", "D", "Gb", "A"]
+	},
+	{
+		"name": "Bm7b5",
+		"note": "B",
+		"type": "m7b5",
+		"value": ["B", "D", "F", "A"],
+		"variation": ["B", "D", "F", "A"]
+	},
+	{
+		"name": "Bdim7",
+		"note": "B",
+		"type": "dim7",
+		"value": ["B", "D", "F", "G#"],
+		"variation": ["B", "D", "F", "Ab"]
+	},
+	{
+		"name": "C7",
+		"note": "C",
+		"type": "7",
+		"value": ["C", "E", "G", "Bb"],
+		"variation": ["C", "E", "G", "A#"]
+	},
+	{
+		"name": "Cmaj7",
+		"note": "C",
+		"type": "maj7",
+		"value": ["C", "E", "G", "B"],
+		"variation": ["C", "E", "G", "B"]
+	},
+	{
+		"name": "Cm7",
+		"note": "C",
+		"type": "m7",
+		"value": ["C", "Eb", "G", "Bb"],
+		"variation": ["C", "D#", "G", "A#"]
+	},
+	{
+		"name": "Cm7b5",
+		"note": "C",
+		"type": "m7b5",
+		"value": ["C", "Eb", "Gb", "Bb"],
+		"variation": ["C", "D#", "F#", "A#"]
+	},
+	{
+		"name": "Cdim7",
+		"note": "C",
+		"type": "dim7",
+		"value": ["C", "Eb", "Gb", "A"],
+		"variation": ["C", "D#", "F#", "A"]
+	},
+	{
+		"name": "D7",
+		"note": "D",
+		"type": "7",
+		"value": ["D", "F#", "A", "C"],
+		"variation": ["D", "Gb", "A", "C"]
+	},
+	{
+		"name": "Dmaj7",
+		"note": "D",
+		"type": "maj7",
+		"value": ["D", "F#", "A", "C#"],
+		"variation": ["D", "Gb", "A", "Db"]
+	},
+	{
+		"name": "Dm7",
+		"note": "D",
+		"type": "m7",
+		"value": ["D", "F", "A", "C"],
+		"variation": ["D", "F", "A", "C"]
+	},
+	{
+		"name": "Dm7b5",
+		"note": "D",
+		"type": "m7b5",
+		"value": ["D", "F", "G#", "C"],
+		"variation": ["D", "F", "Ab", "C"]
+	},
+	{
+		"name": "Ddim7",
+		"note": "D",
+		"type": "dim7",
+		"value": ["D", "F", "G#", "B"],
+		"variation": ["D", "F", "Ab", "B"]
+	},
+	{
+		"name": "E7",
+		"note": "E",
+		"type": "7",
+		"value": ["E", "G#", "B", "D"],
+		"variation": ["E", "Ab", "B", "D"]
+	},
+	{
+		"name": "Emaj7",
+		"note": "E",
+		"type": "maj7",
+		"value": ["E", "G#", "B", "D#"],
+		"variation": ["E", "Ab", "B", "Eb"]
+	},
+	{
+		"name": "Em7",
+		"note": "E",
+		"type": "m7",
+		"value": ["E", "G", "B", "D"],
+		"variation": ["E", "G", "B", "D"]
+	},
+	{
+		"name": "Em7b5",
+		"note": "E",
+		"type": "m7b5",
+		"value": ["E", "G", "A#", "D"],
+		"variation": ["E", "G", "Bb", "D"]
+	},
+	{
+		"name": "Edim7",
+		"note": "E",
+		"type": "dim7",
+		"value": ["E", "G", "A#", "C#"],
+		"variation": ["E", "G", "Bb", "Db"]
+	},
+	{
+		"name": "F7",
+		"note": "F",
+		"type": "7",
+		"value": ["F", "A", "C", "Eb"],
+		"variation": ["F", "A", "C", "D#"]
+	},
+	{
+		"name": "Fmaj7",
+		"note": "F",
+		"type": "maj7",
+		"value": ["F", "A", "C", "E"],
+		"variation": ["F", "A", "C", "E"]
+	},
+	{
+		"name": "Fm7",
+		"note": "F",
+		"type": "m7",
+		"value": ["F", "Ab", "C", "Eb"],
+		"variation": ["F", "G#", "C", "D#"]
+	},
+	{
+		"name": "Fm7b5",
+		"note": "F",
+		"type": "m7b5",
+		"value": ["F", "Ab", "B", "Eb"],
+		"variation": ["F", "G#", "B", "D#"]
+	},
+	{
+		"name": "Fdim7",
+		"note": "F",
+		"type": "dim7",
+		"value": ["F", "Ab", "B", "D"],
+		"variation": ["F", "G#", "B", "D"]
+	},
+	{
+		"name": "G7",
+		"note": "G",
+		"type": "7",
+		"value": ["G", "B", "D", "F"],
+		"variation": ["G", "B", "D", "F"]
+	},
+	{
+		"name": "Gmaj7",
+		"note": "G",
+		"type": "maj7",
+		"value": ["G", "B", "D", "F#"],
+		"variation": ["G", "B", "D", "Gb"]
+	},
+	{
+		"name": "Gm7",
+		"note": "G",
+		"type": "m7",
+		"value": ["G", "A#", "D", "F"],
+		"variation": ["G", "Bb", "D", "F"]
+	},
+	{
+		"name": "Gm7b5",
+		"note": "G",
+		"type": "m7b5",
+		"value": ["G", "A#", "C#", "F"],
+		"variation": ["G", "Bb", "Db", "F"]
+	},
+	{
+		"name": "Gdim7",
+		"note": "G",
+		"type": "dim7",
+		"value": ["G", "A#", "C#", "E"],
+		"variation": ["G", "Bb", "Db", "E"]
+	},
+	{
+		"name": "Ab7",
+		"note": "Ab",
+		"type": "7",
+		"value": ["Ab", "C", "Eb", "Gb"],
+		"variation": []
+	},
+	{
+		"name": "Abmaj7",
+		"note": "Ab",
+		"type": "maj7",
+		"value": ["Ab", "C", "Eb", "G"],
+		"variation": []
+	},
+	{
+		"name": "Abm7",
+		"note": "Ab",
+		"type": "m7",
+		"value": ["Ab", "B", "Eb", "Gb"],
+		"variation": []
+	},
+	{
+		"name": "Abm7b5",
+		"note": "Ab",
+		"type": "m7b5",
+		"value": ["Ab", "B", "D", "Gb"],
+		"variation": []
+	},
+	{
+		"name": "Abdim7",
+		"note": "Ab",
+		"type": "dim7",
+		"value": ["Ab", "B", "D", "F"],
+		"variation": []
+	},
+	{
+		"name": "Bb7",
+		"note": "Bb",
+		"type": "7",
+		"value": ["Bb", "D", "F", "Ab"],
+		"variation": []
+	},
+	{
+		"name": "Bbmaj7",
+		"note": "Bb",
+		"type": "maj7",
+		"value": ["Bb", "D", "F", "A"],
+		"variation": []
+	},
+	{
+		"name": "Bbm7",
+		"note": "Bb",
+		"type": "m7",
+		"value": ["Bb", "Db", "F", "Ab"],
+		"variation": []
+	},
+	{
+		"name": "Bbm7b5",
+		"note": "Bb",
+		"type": "m7b5",
+		"value": ["Bb", "Db", "E", "Ab"],
+		"variation": []
+	},
+	{
+		"name": "Bbdim7",
+		"note": "Bb",
+		"type": "dim7",
+		"value": ["Bb", "Db", "E", "G"],
+		"variation": []
+	},
+	{
+		"name": "Db7",
+		"note": "Db",
+		"type": "7",
+		"value": ["Db", "F", "Ab", "B"],
+		"variation": []
+	},
+	{
+		"name": "Dbmaj7",
+		"note": "Db",
+		"type": "maj7",
+		"value": ["Db", "F", "Ab", "C"],
+		"variation": []
+	},
+	{
+		"name": "Dbm7",
+		"note": "Db",
+		"type": "m7",
+		"value": ["Db", "E", "Ab", "B"],
+		"variation": []
+	},
+	{
+		"name": "Dbm7b5",
+		"note": "Db",
+		"type": "m7b5",
+		"value": ["Db", "E", "G", "B"],
+		"variation": []
+	},
+	{
+		"name": "Dbdim7",
+		"note": "Db",
+		"type": "dim7",
+		"value": ["Db", "E", "G", "Bb"],
+		"variation": []
+	},
+	{
+		"name": "Eb7",
+		"note": "Eb",
+		"type": "7",
+		"value": ["Eb", "G", "Bb", "Db"],
+		"variation": []
+	},
+	{
+		"name": "Ebmaj7",
+		"note": "Eb",
+		"type": "maj7",
+		"value": ["Eb", "G", "Bb", "D"],
+		"variation": []
+	},
+	{
+		"name": "Ebm7",
+		"note": "Eb",
+		"type": "m7",
+		"value": ["Eb", "Gb", "Bb", "Db"],
+		"variation": []
+	},
+	{
+		"name": "Ebm7b5",
+		"note": "Eb",
+		"type": "m7b5",
+		"value": ["Eb", "Gb", "A", "Db"],
+		"variation": []
+	},
+	{
+		"name": "Ebdim7",
+		"note": "Eb",
+		"type": "dim7",
+		"value": ["Eb", "Gb", "A", "C"],
+		"variation": []
+	},
+	{
+		"name": "Gb7",
+		"note": "Gb",
+		"type": "7",
+		"value": ["Gb", "Bb", "Db", "E"],
+		"variation": []
+	},
+	{
+		"name": "Gbmaj7",
+		"note": "Gb",
+		"type": "maj7",
+		"value": ["Gb", "Bb", "Db", "F"],
+		"variation": []
+	},
+	{
+		"name": "Gbm7",
+		"note": "Gb",
+		"type": "m7",
+		"value": ["Gb", "A", "Db", "E"],
+		"variation": []
+	},
+	{
+		"name": "Gbm7b5",
+		"note": "Gb",
+		"type": "m7b5",
+		"value": ["Gb", "A", "C", "E"],
+		"variation": []
+	},
+	{
+		"name": "Gbdim7",
+		"note": "Gb",
+		"type": "dim7",
+		"value": ["Gb", "A", "C", "Eb"],
+		"variation": []
+	},
+	{
+		"name": "A#7",
+		"note": "A#",
+		"type": "7",
+		"value": ["A#", "D", "F", "G#"],
+		"variation": []
+	},
+	{
+		"name": "A#maj7",
+		"note": "A#",
+		"type": "maj7",
+		"value": ["A#", "D", "F", "A"],
+		"variation": []
+	},
+	{
+		"name": "A#m7",
+		"note": "A#",
+		"type": "m7",
+		"value": ["A#", "C#", "F", "G#"],
+		"variation": []
+	},
+	{
+		"name": "A#m7b5",
+		"note": "A#",
+		"type": "m7b5",
+		"value": ["A#", "C#", "E", "G#"],
+		"variation": []
+	},
+	{
+		"name": "A#dim7",
+		"note": "A#",
+		"type": "dim7",
+		"value": ["A#", "C#", "E", "G"],
+		"variation": []
+	},
+	{
+		"name": "C#7",
+		"note": "C#",
+		"type": "7",
+		"value": ["C#", "F", "G#", "B"],
+		"variation": []
+	},
+	{
+		"name": "C#maj7",
+		"note": "C#",
+		"type": "maj7",
+		"value": ["C#", "F", "G#", "C"],
+		"variation": []
+	},
+	{
+		"name": "C#m7",
+		"note": "C#",
+		"type": "m7",
+		"value": ["C#", "E", "G#", "B"],
+		"variation": []
+	},
+	{
+		"name": "C#m7b5",
+		"note": "C#",
+		"type": "m7b5",
+		"value": ["C#", "E", "G", "B"],
+		"variation": []
+	},
+	{
+		"name": "C#dim7",
+		"note": "C#",
+		"type": "dim7",
+		"value": ["C#", "E", "G", "A#"],
+		"variation": []
+	},
+	{
+		"name": "D#7",
+		"note": "D#",
+		"type": "7",
+		"value": ["D#", "G", "A#", "C#"],
+		"variation": []
+	},
+	{
+		"name": "D#maj7",
+		"note": "D#",
+		"type": "maj7",
+		"value": ["D#", "G", "A#", "D"],
+		"variation": []
+	},
+	{
+		"name": "D#m7",
+		"note": "D#",
+		"type": "m7",
+		"value": ["D#", "F#", "A#", "C#"],
+		"variation": []
+	},
+	{
+		"name": "D#m7b5",
+		"note": "D#",
+		"type": "m7b5",
+		"value": ["D#", "F#", "A", "C#"],
+		"variation": []
+	},
+	{
+		"name": "D#dim7",
+		"note": "D#",
+		"type": "dim7",
+		"value": ["D#", "F#", "A", "C"],
+		"variation": []
+	},
+	{
+		"name": "F#7",
+		"note": "F#",
+		"type": "7",
+		"value": ["F#", "A#", "C#", "E"],
+		"variation": []
+	},
+	{
+		"name": "F#maj7",
+		"note": "F#",
+		"type": "maj7",
+		"value": ["F#", "A#", "C#", "F"],
+		"variation": []
+	},
+	{
+		"name": "F#m7",
+		"note": "F#",
+		"type": "m7",
+		"value": ["F#", "A", "C#", "E"],
+		"variation": []
+	},
+	{
+		"name": "F#m7b5",
+		"note": "F#",
+		"type": "m7b5",
+		"value": ["F#", "A", "C", "E"],
+		"variation": []
+	},
+	{
+		"name": "F#dim7",
+		"note": "F#",
+		"type": "dim7",
+		"value": ["F#", "A", "C", "D#"],
+		"variation": []
+	},
+	{
+		"name": "G#7",
+		"note": "G#",
+		"type": "7",
+		"value": ["G#", "C", "D#", "F#"],
+		"variation": []
+	},
+	{
+		"name": "G#maj7",
+		"note": "G#",
+		"type": "maj7",
+		"value": ["G#", "C", "D#", "G"],
+		"variation": []
+	},
+	{
+		"name": "G#m7",
+		"note": "G#",
+		"type": "m7",
+		"value": ["G#", "B", "D#", "F#"],
+		"variation": []
+	},
+	{
+		"name": "G#m7b5",
+		"note": "G#",
+		"type": "m7b5",
+		"value": ["G#", "B", "D", "F#"],
+		"variation": []
+	},
+	{
+		"name": "G#dim7",
+		"note": "G#",
+		"type": "dim7",
+		"value": ["G#", "B", "D", "F"],
+		"variation": []
+	}
+]
